@@ -1,4 +1,4 @@
-name = "openai-proxy"
+name = "openai"
 account_id = "d35ec33cfb57666bd92af91ea35a2ec5"
 workers_dev = true
 compatibility_date = "2024-06-01"
